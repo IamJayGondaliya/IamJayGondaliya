@@ -1,10 +1,46 @@
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
+
+<h1 align="center">Hi 👋, I'm Jay Gondaliya</h1>
+
+>  An Aspiring and Self - Motivated Flutter Develope with Problem solving mindset and ability to perform well in collaboration...
+
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjaygondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="iamjaygondaliya" /> </p>
+
+
+ <p><img align="right" width="350" height="250"  src='https://camo.githubusercontent.com/2d74e5bb8437158e8e03f146db949b974c13df30804383207563ec797213182c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966' /></p>
 
 # 💫 About Me:
-🔭 I'm currently working on Flutter Application Development...<br>👯 I’m looking to collaborate on latest flutter trends<br>🌱 I’m currently learning Python...<br>💬 Ask me about anything which confused you in DSA or FLUTTER
 
+``` dart
+
+import 'dev-community:india/flutter-devs';
+
+class Desc extends SoftwareDeveloper {
+  static final String name = "Jay Gondaliya";
+  dynamic title = "Flutter Developper";
+  dynamic location = "Gujarat, India";
+
+  @override
+  Skills getSkills() {    
+    List languages  = ['C', 'C++', 'Dart', 'PHP', 'Python'];
+  }
+}
+
+```
+
+```css
+ 
+- 🔭 I'm currently working on Flutter Application Development...
+
+- 🌱 I’m currently learning Python[Data Scince]...
+
+- 💬 Ask me about anything which confused you in DSA or FLUTTER
+
+- 📫 How to reach me **jaygondaliya147@gmail.com**
+
+  ```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rwn-jay-gondaliya-191a94276) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22287467/rwn-jay-gondaliya) 
@@ -22,8 +58,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=IamJayGondaliya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
