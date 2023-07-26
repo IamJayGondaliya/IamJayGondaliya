@@ -23,8 +23,9 @@ class Desc extends SoftwareDeveloper {
   dynamic location = "Gujarat, India";
 
   @override
-  Skills getSkills() {    
-    List languages  = ['C', 'C++', 'Dart', 'PHP', 'Python'];
+  List<Skills> getSkills() {    
+    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP', 'Python'];
+    return languages;   
   }
 }
 
