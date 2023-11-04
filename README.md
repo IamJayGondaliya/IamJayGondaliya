@@ -18,7 +18,7 @@
 import 'dev-community:india/flutter-devs';
 
 class Desc extends SoftwareDeveloper {
-  static final String name = "Jay Gondaliya";
+  final String name = "Jay Gondaliya";
   dynamic title = "Flutter Developper";
   dynamic location = "Gujarat, India";
 
