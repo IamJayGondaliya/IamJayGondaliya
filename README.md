@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Jay Gondaliya</h1>
 
->  An Aspiring and Self - Motivated Flutter Develope with Problem solving mindset and ability to perform well in collaboration...
+>  An Aspiring and Self - Motivated Flutter Developer with Problem solving mindset and ability to perform well in collaboration...
 
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjaygondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="iamjaygondaliya" /> </p>
