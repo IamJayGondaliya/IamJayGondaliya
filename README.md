@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjaygondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="iamjaygondaliya" /> </p>
 
 
- <p><img align="right" width="350" height="300"  src='https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif'/></p>
+<p><img align="right" width="350" height="300"  src='https://www.bacancytechnology.com/main-boot-5/images/chatbot/side-img-1.gif'/></p>
 
 # 💫 About Me:
 
@@ -31,6 +31,116 @@ class Desc extends SoftwareDeveloper {
 
 ```
 
+<!--```dart
+void main() {
+  const websiteUrl = 'dctech.dev';
+  
+  final me = PersonalInfo(
+    title: 'Senior Flutter Engineer',
+    contacInfo: ContactInfo(
+      email: Uri.parse('mailto:danicoy@gmail.com'),
+      linkedIn: Uri.https('www.linkedin.com', 'in/daniel-coyula/'),
+      github: Uri.https('github.com', 'monster555'),
+      portfolio: Uri.https('portfolio.dctech.dev'),
+      facefolio: Uri.https('facefolio.dctech.dev'),
+      website: Uri.https(websiteUrl),
+      resume: Uri.https(websiteUrl, 'downloads/viewDanielCoyulaCV().pdf'),
+    ),
+    flutterInfo: FlutterInfo(
+      experienceYears: '5+',
+      projectsCount: 'Many!', // And counting... :)
+      // Apps published on various stores
+      apps: <Store>[
+        // iOS apps in the App Store
+        AppStore(
+          hasPublishedApps: true,
+          appsCount: 4,
+        ),
+        // Android apps in the Play Store
+        PlayStore(
+          hasPublishedApps: true,
+          appsCount: 6,
+        ),
+      ],
+      architecturesAndTools: <String>[
+        'Flutter Web',
+        'BLoC',
+        'Clean Architecture',
+        'Firebase',
+        'MongoDB',
+        'Parse Server',
+      ],
+    ),
+    otherSkills: <String>[ // The most relevant
+      'UI / UX',
+      'MongoDB',
+      'JavaScript',
+      'NodeJS',
+      'HTML / CSS',
+      'TypeScript',
+      'Express'
+    ],
+    projects: <Project>[
+      Project(
+        'DateChatAI',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(ios: true, android: true),
+        url: Uri.https('datechatai.com'),
+      ),
+      Project(
+        'My FaceFolio',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(web: true),
+        url: Uri.https('facefolio.dctech.dev'),
+      ),
+      Project(
+        'Baseball Cuba',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(android: true, iOS: true),
+      ),
+      Project(
+        'My Flutter Web Portfolio',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(web: true),
+        url: Uri.https('portfolio.dctech.dev'),
+      ),
+      Project(
+        'ProAnimals',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(android: true, iOS: true),
+      ),
+      Project(
+        'Cashews Finance',
+        role: 'Senior Flutter Engineer',
+        platforms: Platforms(android: true, iOS: true),
+        url: Uri.https(websiteUrl, 'cashews-finance'),
+      ),
+      Project(
+        'Self-Service kiosk for Citroën',
+        role: 'Full Stack Software Engineer',
+        platforms: Platforms(android: true),
+        url: Uri.https(websiteUrl, 'citroen'),
+      ),
+      Project(
+        'PedidoFacil',
+        role: 'Full Stack Software Engineer',
+        platforms: Platforms(android: true, iOS: true),
+        url: Uri.https(websiteUrl, 'pedidofacil'),
+      ),
+      Project(
+        'EnvioFacil',
+        role: 'Full Stack Software Engineer',
+        platforms: Platforms(android: true, iOS: true),
+        url: Uri.https(websiteUrl, 'enviofacil'),
+      ),
+    ],
+  )..setStatus(
+    learningCoolStuff: true,
+    openToNewProjects: true,
+  );
+}
+```
+
 ```css
  
 - 🔭 I'm currently working on Flutter Application Development...
@@ -42,7 +152,7 @@ class Desc extends SoftwareDeveloper {
 - 📫 How to reach me **jaygondaliya147@gmail.com**
 
   ```
-
+-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rwn-jay-gondaliya-191a94276) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22287467/rwn-jay-gondaliya) 
 
